@@ -26,7 +26,7 @@ https://github.com/jerairrest/react-chartjs-2/tree/master/example/src/components
   git config --list
   git config user.name
 
-### Proxy settting :
+### Proxy setting :
 
       git config --global http.proxy ""
 
@@ -40,7 +40,7 @@ https://github.com/jerairrest/react-chartjs-2/tree/master/example/src/components
     git push -f origin master
 
 
-### Boot:
+### Bootstrap :
 
       https://react-bootstrap.github.io/getting-started/introduction/
 
