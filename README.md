@@ -3,7 +3,6 @@
 
 #### React ChartJS Template
 
-
     npm install react-chartjs-2 chart.js --save
 
     https://github.com/jerairrest/react-chartjs-2
